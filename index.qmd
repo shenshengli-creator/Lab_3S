@@ -1,0 +1,19 @@
+---
+title: "index.qmd"
+format: html
+toc: true
+toc_florat: true
+embed-resources: true
+editor: visual
+execute: 
+  warning: false
+  message: false
+---
+
+## about me
+I am Sam Li, this time i forgot to bring my ipad so thisbclass i was purely working on my phone...
+
+
+![photo](Lab 1s virus image.jpeg)
+
+[labs](Lab 1 Sam Li.html)
