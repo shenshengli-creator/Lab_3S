@@ -1,19 +1,36 @@
 ---
-title: "index.qmd"
-format: html
-toc: true
-toc_florat: true
-embed-resources: true
+title: "Sam Li – Lab Portfolio"
+format:
+  html:
+    toc: true
+    toc_float: true
 editor: visual
-execute: 
+execute:
   warning: false
   message: false
 ---
 
-## about me
-I am Sam Li, this time i forgot to bring my ipad so thisbclass i was purely working on my phone...
+# About Me
 
+I am Sam Li.  
+This website hosts my course laboratory reports and reproducible analyses.
 
-![photo](Lab 1s virus image.jpeg)
+Below you can access my Lab 13 report, including data preparation, diversity analyses, ordination visualizations, soil chemistry correlations, and summary interpretations.
 
-[labs](Lab 1 Sam Li.html)
+---
+
+# Lab 13: Soil MAG Community Analysis
+
+Here is my full analysis, including code and figures:
+
+[View Lab 13 Report (QMD Source)](Lab13.qmd)
+
+If an HTML-rendered version is also available, it will appear below:
+
+[View Lab 13 Report (HTML Version)](Lab13.html)
+
+---
+
+# Additional Work
+
+If I add future labs, they will be listed here.
